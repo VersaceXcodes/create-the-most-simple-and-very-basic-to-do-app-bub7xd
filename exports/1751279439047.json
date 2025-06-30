@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751279439047,
+  "operation": {
+    "id": "db:schemas:zod"
+  },
+  "projectId": "create-the-most-simple-and-very-basic-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/create-the-most-simple-and-very-basic-to-do-app/backend/schema.ts",
+      "type": "text",
+      "size": 3019,
+      "dependencies": false
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "timestamp": 1751279564084,
+  "operation": {
+    "id": "webapp:react:root",
+    "refs": {
+      "id": "app",
+      "version": "1751279554891"
+    }
+  },
+  "projectId": "create-the-most-simple-and-very-basic-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/create-the-most-simple-and-very-basic-to-do-app/vitereact/src/App.tsx",
+      "type": "text",
+      "size": 1388,
+      "dependencies": false
+    }
+  ]
+}

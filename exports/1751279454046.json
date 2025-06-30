@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751279454046,
+  "operation": {
+    "id": "backend:specifications:openapi"
+  },
+  "projectId": "create-the-most-simple-and-very-basic-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/create-the-most-simple-and-very-basic-to-do-app/backend/openapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}

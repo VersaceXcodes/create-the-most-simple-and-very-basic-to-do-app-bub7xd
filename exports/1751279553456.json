@@ -1,0 +1,19 @@
+{
+  "timestamp": 1751279553456,
+  "operation": {
+    "id": "webapp:react:store",
+    "refs": {
+      "id": "redux",
+      "version": "latest"
+    }
+  },
+  "projectId": "create-the-most-simple-and-very-basic-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/create-the-most-simple-and-very-basic-to-do-app/vitereact/src/store/main.tsx",
+      "type": "text",
+      "size": 4866,
+      "dependencies": false
+    }
+  ]
+}

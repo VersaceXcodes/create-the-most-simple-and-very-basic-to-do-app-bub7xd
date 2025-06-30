@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751279471303,
+  "operation": {
+    "id": "backend:server:main"
+  },
+  "projectId": "create-the-most-simple-and-very-basic-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/create-the-most-simple-and-very-basic-to-do-app/backend/server.ts",
+      "type": "text",
+      "size": 4738,
+      "dependencies": false
+    }
+  ]
+}

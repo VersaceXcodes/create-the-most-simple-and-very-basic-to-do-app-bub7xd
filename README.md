@@ -1,2 +1,3 @@
-# create-the-most-simple-and-very-basic-to-do-app-bub7xd
-Generated project for create-the-most-simple-and-very-basic-to-do-app
+app generated from cofounder/boilerplate
+
+instructions here on how to start api and frontend , whether in parallel or separately

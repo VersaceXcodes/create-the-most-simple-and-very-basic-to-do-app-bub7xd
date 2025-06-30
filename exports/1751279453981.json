@@ -1,0 +1,15 @@
+{
+  "timestamp": 1751279453981,
+  "operation": {
+    "id": "backend:specifications:asyncapi"
+  },
+  "projectId": "create-the-most-simple-and-very-basic-to-do-app",
+  "files": [
+    {
+      "path": "../../apps/create-the-most-simple-and-very-basic-to-do-app/backend/asyncapi.yaml",
+      "type": "text",
+      "size": 3,
+      "dependencies": false
+    }
+  ]
+}
